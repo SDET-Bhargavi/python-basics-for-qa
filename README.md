@@ -1,2 +1,17 @@
 # python-basics-for-qa
-Python practice programs focused on Python basics and QA automation fundamentals, including logic building and problem solving.
+This repository contains Python practice programs focused on building a strong foundation for QA automation.
+
+## Topics Covered
+- Variables and Data Types
+- Conditional Statements
+- Loops (for, while)
+- Functions
+- Basic Problem Solving
+
+## Goal
+To strengthen programming logic and apply Python in real-world QA automation scenarios.
+
+## Future Enhancements
+- File handling
+- Exception handling
+- Integration with Selenium
